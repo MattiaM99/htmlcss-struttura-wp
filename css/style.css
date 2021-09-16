@@ -9,3 +9,56 @@
   display: table;
   clear: both;
 }
+
+body{
+  padding: 0 15%;
+}
+
+header{
+  height: 100px;
+  background-color: #E579E6;
+  margin-bottom: 20px;
+}
+
+.jumbotron{
+background-color: #E1D67A;
+min-height: 400px;
+margin-bottom: 20px;
+}
+
+.top-content{
+  background-color: #ABCFE7;
+  min-height: 80px;
+}
+
+main{
+  background-color: #0086FF;
+  min-height: 600px;
+  margin-bottom: 10px;
+
+}
+
+aside, section{
+  background-color: #ABCFE7;
+  float: left;
+  margin-top: 1%;
+}
+
+.nav-bar, .widget{
+  width: 23%;
+  background-color:#ABCFE7;
+  min-height: 500px;
+}
+
+.main-content{
+  width: 52%;
+  background-color:#ABCFE7;
+  min-height: 500px;
+  margin: 1% 1% 1% 1%;
+}
+
+footer{
+  height: 70px;
+  background-color: #8801FE;
+}
+
