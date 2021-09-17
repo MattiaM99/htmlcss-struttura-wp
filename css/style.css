@@ -4,14 +4,14 @@
   box-sizing: border-box;
 }
 
+body{
+  padding: 0 15%;
+}
+
 .clearfix::after {
   content: "";
   display: table;
   clear: both;
-}
-
-.container{
-  padding: 0 15%;
 }
 
 header{
